@@ -42,14 +42,14 @@ export default function Home() {
           <div className="mt-10 flex flex-col gap-4 sm:flex-row">
             <Link
               href="/signup?role=advertiser"
-              className="inline-flex items-center justify-center gap-2 rounded-lg bg-brand px-6 py-3 text-sm font-semibold text-brand-foreground shadow-sm transition-colors hover:bg-indigo-700"
+              className="inline-flex items-center justify-center gap-2 rounded-lg bg-brand px-6 py-3 text-sm font-semibold uppercase text-brand-foreground shadow-sm transition-colors hover:bg-indigo-700"
             >
               I&apos;m an Advertiser
               <ArrowRight className="h-4 w-4" />
             </Link>
             <Link
               href="/signup?role=publisher"
-              className="inline-flex items-center justify-center gap-2 rounded-lg border border-border bg-card px-6 py-3 text-sm font-semibold text-foreground shadow-sm transition-colors hover:bg-slate-50"
+              className="inline-flex items-center justify-center gap-2 rounded-lg border border-border bg-card px-6 py-3 text-sm font-semibold uppercase text-foreground shadow-sm transition-colors hover:bg-slate-50"
             >
               I&apos;m a Publisher
               <ArrowRight className="h-4 w-4" />

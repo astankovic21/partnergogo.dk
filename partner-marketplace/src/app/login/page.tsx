@@ -3,7 +3,7 @@ import LoginClient from "./LoginClient";
 
 export const metadata: Metadata = {
   title: "Log in",
-  description: "Log in to your Partner Marketplace account.",
+  description: "Log in to your PartnerGoGo account.",
 };
 
 export default function LoginPage() {

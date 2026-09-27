@@ -29,7 +29,7 @@ export default function OpengraphImage() {
             }}
           />
           <div style={{ fontSize: 34, fontWeight: 700, color: "#0f172a" }}>
-            Partner Marketplace
+            PartnerGoGo
           </div>
         </div>
         <div

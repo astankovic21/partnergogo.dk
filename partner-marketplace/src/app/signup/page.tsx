@@ -4,7 +4,7 @@ import SignupClient from "./SignupClient";
 
 export const metadata: Metadata = {
   title: "Sign up",
-  description: "Create your Partner Marketplace account as an advertiser or a publisher.",
+  description: "Create your PartnerGoGo account as an advertiser or a publisher.",
 };
 
 export default function SignupPage() {

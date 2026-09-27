@@ -50,7 +50,7 @@ export default function LoginClient() {
             <Handshake className="h-5 w-5" strokeWidth={2.25} />
           </span>
           <h1 className="mt-4 text-xl font-bold text-foreground">Welcome back</h1>
-          <p className="mt-1 text-sm text-muted">Log in to your Partner Marketplace account.</p>
+          <p className="mt-1 text-sm text-muted">Log in to your PartnerGoGo account.</p>
         </div>
 
         {!supabase && (

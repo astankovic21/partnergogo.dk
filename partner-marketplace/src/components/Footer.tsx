@@ -10,7 +10,7 @@ export default function Footer() {
             <span className="flex h-7 w-7 items-center justify-center rounded-lg bg-brand text-brand-foreground">
               <Handshake className="h-4 w-4" strokeWidth={2.25} />
             </span>
-            Partner Marketplace
+            PartnerGoGo
           </div>
           <p className="mt-3 max-w-xs text-sm text-muted">
             Where performance meets distribution.
@@ -65,7 +65,7 @@ export default function Footer() {
 
       <div className="border-t border-border py-6">
         <p className="container-page flex flex-wrap items-center justify-between gap-2 text-xs text-muted">
-          <span>&copy; {new Date().getFullYear()} Partner Marketplace. All rights reserved.</span>
+          <span>&copy; {new Date().getFullYear()} PartnerGoGo. All rights reserved.</span>
           <Link href="/admin" className="text-muted/70 hover:text-muted">
             Admin
           </Link>

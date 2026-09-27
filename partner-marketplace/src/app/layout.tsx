@@ -8,7 +8,7 @@ import { DemoUserProvider } from "@/context/demo-user-context";
 // domain changes) — this powers absolute URLs for Open Graph/Twitter images
 // and canonical links.
 const siteUrl = "https://partnergogo.dk";
-const siteName = "Partner Marketplace";
+const siteName = "PartnerGoGo";
 const description =
   "Where performance meets distribution. A B2B marketplace matching advertisers to publishers for affiliate and performance marketing — discover partners, launch campaigns, and negotiate deals in one place.";
 

@@ -1,5 +1,5 @@
 // ---------------------------------------------------------------------------
-// Core domain types for Partner Marketplace.
+// Core domain types for PartnerGoGo.
 //
 // These interfaces mirror the shape of a future Postgres/Supabase schema.
 // Every entity carries an `id` (uuid string in production) and, where
